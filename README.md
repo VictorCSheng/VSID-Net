@@ -31,7 +31,7 @@ For the denoising of large-scale SEM images, you may need to apply "batchbigimgd
 Here are some examples of denoising SEM images using different denoising algorithms. 
 Our method has a good balance between denoising and over-smoothing and achieved the best denoising effect from the intuitive experience of denoising images.
 
-![image](https://github.com/VictorCSheng/VSID-Net/raw/master/example_image/result.png)
+![image](https://github.com/VictorCSheng/VSID-Net/raw/main/example_image/result.png)
 
 ## Contributing
 Please refer to the paper "Denoising of scanning electron microscope images for ultrastructure enhancement".
