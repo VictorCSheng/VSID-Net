@@ -7,8 +7,8 @@ Denoising of scanning electron microscope images for ultrastructure enhancement
 ## Table of Contents
 
 - [Dependencies](#Dependencies)
-- [Instructions for Use](#Instructions for Use)
-- [Examples and Comparison Results](#Examples and Comparison Results)
+- [Instructions for Use](#Instructions-for-Use)
+- [Examples and Comparison Results](#Examples-and-Comparison-Results)
 - [Contributing](#Contributing)
 
 ## Dependencies
@@ -23,8 +23,11 @@ If you don't have some of these libraries, you can install them using pip or ano
 ## Instructions for Use
 
 If you just want to test our method, you can use "./source/denoise_demo.py".
+
 If you want to retrain our network, please check and run "./source/train.py". 
+
 If you want to use our training parameters directly, please run "./source/predict.py".
+
 For the denoising of large-scale SEM images, you may need to apply "./source/batchbigimgdenoise.py".
 
 ## Examples and Comparison Results
@@ -32,7 +35,7 @@ For the denoising of large-scale SEM images, you may need to apply "./source/bat
 Here are some examples of denoising SEM images using different denoising algorithms. 
 Our method has a good balance between denoising and over-smoothing. And intuitively, our method has also achieved the best results
 
-![Denoising results](https://github.com/VictorCSheng/VSID-Net/raw/main/paper_image/results.PNG)
+![Denoising results](https://github.com/VictorCSheng/VSID-Net/raw/main/paper_image/results.png)
 
 ## Contributing
 Please refer to the paper "Denoising of scanning electron microscope images for ultrastructure enhancement".
