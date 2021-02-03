@@ -2,62 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f862d9e8-a305-4123-ad67-23af20b8a626" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SEM_image_noise_estamite/Git_noise_estimate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SEM_image_noise_estamite/image_block.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../paper_image/results.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/VSID_net.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataset_prepare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GD_Net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GD_Net_model/model_epoch_68.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VS_Net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VS_Net_model/model_epoch_49.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batchbigimgdenoise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/denoise_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgdata_prepare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/SEMnoise/1_013.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/SEMnoise/1_014.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/SEMnoise/1_045.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/SEMnoise/1_060.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/SEMnoise/2_023.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/SEMnoise/2_024.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/SEMnoise/2_048.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/SEMnoise/2_052.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/SEMnoise/2_062.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/SEMnoise/3_001.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/clean/1_013.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/clean/1_014.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/clean/1_045.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/clean/1_060.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/clean/2_023.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/clean/2_024.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/clean/2_048.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/clean/2_052.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/clean/2_062.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/clean/3_001.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/gassion/1_013.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/gassion/1_014.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/gassion/1_045.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/gassion/1_060.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/gassion/2_023.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/gassion/2_024.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/gassion/2_048.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/gassion/2_052.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/gassion/2_062.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/gassion/3_001.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/result/clean/2_023.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/result/gassion/2_023.tif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example_image/results.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +41,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.denoise_demo">
+  <component name="RunManager" selected="Python.predict">
     <configuration name="cs_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VSID_net" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,10 +154,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.denoise_demo" />
         <item itemvalue="Python.predict" />
         <item itemvalue="Python.train" />
         <item itemvalue="Python.imgdata_prepare" />
+        <item itemvalue="Python.denoise_demo" />
         <item itemvalue="Python.cs_util" />
       </list>
     </recent_temporary>
@@ -235,6 +184,8 @@
       <workItem from="1612320270029" duration="664000" />
       <workItem from="1612321292338" duration="25649000" />
       <workItem from="1612366161591" duration="637000" />
+      <workItem from="1612367501782" duration="7000" />
+      <workItem from="1612387814412" duration="3294000" />
     </task>
     <servers />
   </component>
@@ -255,8 +206,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/VSID_net$imgdata_prepare.coverage" NAME="imgdata_prepare Coverage Results" MODIFIED="1585036260172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/train_py$train.coverage" NAME="train Coverage Results" MODIFIED="1612359750936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/train_py$predict.coverage" NAME="predict Coverage Results" MODIFIED="1612359874170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/train_py$train.coverage" NAME="train Coverage Results" MODIFIED="1612390869868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/train_py$predict.coverage" NAME="predict Coverage Results" MODIFIED="1612391055987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/train_py$cs_util.coverage" NAME="cs_util Coverage Results" MODIFIED="1612334140536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/VSID_net$ex_test.coverage" NAME="ex_test Coverage Results" MODIFIED="1600610703736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/VSID_net$compare.coverage" NAME="compare Coverage Results" MODIFIED="1585367555381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -265,6 +216,6 @@
     <SUITE FILE_PATH="coverage/VSID_net$GD_Net_test.coverage" NAME="GD_Net_test Coverage Results" MODIFIED="1585367849708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/VSID_net$denoise_test.coverage" NAME="denoise_test Coverage Results" MODIFIED="1585044801363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/train_py$denoise_demo.coverage" NAME="denoise_demo Coverage Results" MODIFIED="1612362319908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/train_py$imgdata_prepare.coverage" NAME="imgdata_prepare Coverage Results" MODIFIED="1612340169753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/train_py$imgdata_prepare.coverage" NAME="imgdata_prepare Coverage Results" MODIFIED="1612388847831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
